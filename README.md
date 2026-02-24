@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn-icons-png.flaticon.com/512/5072/5072860.png" alt="a" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce**
 
 - 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **ak3927675@gmail.com**
+  
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn-icons-png.flaticon.com/512/5072/5072860.png" alt="a" width="200" height="800"/></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
