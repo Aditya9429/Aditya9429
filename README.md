@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*rAnAMmvA6FmPcCf8h16Lvg.jpeg" /><h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="a" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn-icons-png.flaticon.com/512/5072/5072860.png" alt="a" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce**
 
